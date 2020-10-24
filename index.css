@@ -135,13 +135,13 @@ section{
     }
     .card{
         width: 60%;
-        min-width: 200px;
+        min-width: 270px;
     }
     .card--column{
         width: 100%;
     }
     .column{
         width: 60%;
-        min-width: 200px;
+        min-width: 270px;
     }
 }
